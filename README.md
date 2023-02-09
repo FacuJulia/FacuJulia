@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I am Facundo Juliá</h1>
-<h2 align="center">A passionate Engineer and Data Scientist from Argentina</h2>
+<h2 align="center">A passionate Engineer and Data Scientist from Argentina. Actively looking for new job and study opportunities to continue growing in the IT world that I am so passionate about.</h2>
 
 <table width="100%" align="center">
   
