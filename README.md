@@ -11,7 +11,7 @@
  
 - 🔭 I am an Electronic Engineer from UTN (Universidad Tecnologica Nacional)
 - 👩🏽‍💻 I have a diploma in Data Science with R and Python
-- 🌱 I am looking to collaborate on Data Scientist projects
+- 🌱 I am looking to collaborate on Data Science projects
 - 🌍 I am Argentinean, born and raised in Santa Fe, Argentina, living at the moment in this city
 - 📁 You can see my work in this portfolio : https://github.com/FacuJulia/Portfolio
 - 📫 You can contact me at facujulia@gmail.com
